@@ -6,25 +6,25 @@ Company best practices
 
 ### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 
-*   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
-*   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
-*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
+*   [x] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [x] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
+*   [x] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
 #### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
-*   [ ] You know how to create and reference issues
+*   [x] You know how to create and reference issues
 *   [ ] You know how to verify when a build check failed
 
 ### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
 
 #### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
-*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
-*   [ ] You know how to create groups and channels
+*   [x] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [x] You know how to create groups and channels
 
 #### [Small Improvements](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#small-improvements)
 
-*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+*   [x] You know how to give praise and add talk topics to a 1:1 meeting
 
 #### [Email](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#email)
 
@@ -186,8 +186,8 @@ Testing
 
 #### [Jest](/Technical%20Stack/Backend%20Developer/Testing.md#jest)
 
-*   [ ] You know how to configure a test env
-*   [ ] You can describe a test using assertions
+*   [x]You know how to configure a test env
+*   [x]You can describe a test using assertions
 
 ### [Performance Testing](/Technical%20Stack/Backend%20Developer/Testing.md#performance-testing)
 
