@@ -21,12 +21,12 @@ Company practices
 
 #### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
-*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
-*   [ ] You know how to create groups and channels
+*   [x] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [x] You know how to create groups and channels
 
 #### [Small Improvements](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#small-improvements)
 
-*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+*   [x] You know how to give praise and add talk topics to a 1:1 meeting
 
 #### [Email](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#email)
 
