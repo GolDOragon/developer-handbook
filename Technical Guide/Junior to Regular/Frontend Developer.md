@@ -39,17 +39,17 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
-*   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
-*   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
-*   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
+*   [x] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [x] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
+*   [x] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
+*   [x] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
 *   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
 *   [ ] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
 
 ### [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
-*   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+*   [x] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [x] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 
 Application state management
 ----------------------------
@@ -61,7 +61,7 @@ Application state management
 #### [react-redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#react-redux)
 
 *   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
-*   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
+*   [x] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
 
 #### [Redux toolset](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolset)
 
@@ -115,20 +115,20 @@ Application state management
 Apptension React Boilerplate
 ----------------------------
 
-*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
-*   [ ] You know how to run a linter
+*   [x] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
+*   [x] You know how to run a linter
 *   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
-*   [ ] You know how to create a new route and its component
+*   [x] You know how to create a new route and its component
 
 Styling
 -------
 
 ### [CSS](/Technical%20Stack/Frontend%20Developer/Styling.md#css)
 
-*   [ ] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
-*   [ ] You know how to apply basic styles to elements (colour, size, position, etc)
-*   [ ] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
-*   [ ] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
+*   [x] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
+*   [x] You know how to apply basic styles to elements (colour, size, position, etc)
+*   [x] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
+*   [x] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
 *   [ ] You know how to use media queries
 
 #### [CSS in JS](/Technical%20Stack/Frontend%20Developer/Styling.md#css-in-js)
@@ -149,13 +149,13 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 
 #### [CSS Grid](/Technical%20Stack/Frontend%20Developer/Styling.md#css-grid)
 
-*   [ ] You know how to divide a web page to rows and columns
-*   [ ] You can position elements in a grid
+*   [x] You know how to divide a web page to rows and columns
+*   [x] You can position elements in a grid
 
 ### \[Optional\] [Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
 
-*   [ ] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
-*   [ ] You know how to create and use scss variables
+*   [x] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
+*   [x] You know how to create and use scss variables
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
@@ -164,8 +164,8 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 Date & Time
 -----------
 
-*   [ ] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
-*   [ ] You know how to compare native date objects
+*   [x] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+*   [x] You know how to compare native date objects
 
 ### \[Optional\] [react-datetime](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#react-datetime)
 
@@ -184,7 +184,7 @@ Routing
 
 ### [react-router](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router)
 
-*   [ ] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
+*   [x] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
 *   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
 *   [ ] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
 *   [ ] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
@@ -192,7 +192,7 @@ Routing
 
 ### [react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
 
-*   [ ] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
+*   [x] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
 
 Animations
 ----------
@@ -226,19 +226,19 @@ Development Tools
 
 #### [Yarn](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#yarn)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
 *   [ ] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
 
 #### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
 *   [ ] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
 
 ### [Generators](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#generators)
 
 #### [create-react-app](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#create-react-app)
 
-*   [ ] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
+*   [x] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
 
 ### [React](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#react)
 
