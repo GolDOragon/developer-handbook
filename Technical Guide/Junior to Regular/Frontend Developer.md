@@ -244,11 +244,11 @@ Development Tools
 
 #### [prop-types](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prop-types)
 
-*   [ ] You know how to describe component's prop types
+*   [x] You know how to describe component's prop types
 
 #### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
-*   [ ] You use <code>redux-devtools</code> to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
+*   [x] You use <code>redux-devtools</code> to see the current state and play with the state change history [:books:](https://reactjs.org/docs/typechecking-with-proptypes.html)
 
 HTTP
 ----
@@ -273,7 +273,7 @@ Testing
 
 ### [jest](/Technical%20Stack/Mobile%20Developer/Testing.md#jest)
 
-*   [ ] You know how to test components and functions
+*   [x] You know how to test components and functions
 
 Tools
 -----
@@ -282,8 +282,8 @@ Tools
 
 #### [Figma](/Technical%20Stack/Mobile%20Developer/Tools.md#figma)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
-*   [ ] You know how to extract image assets from a design project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
+*   [x] You know how to extract image assets from a design project
 
 #### [Zeplin](/Technical%20Stack/Mobile%20Developer/Tools.md#zeplin)
 
@@ -302,7 +302,7 @@ Tools
 Browsers
 --------
 
-*   [ ] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+*   [x] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 * * *
 
